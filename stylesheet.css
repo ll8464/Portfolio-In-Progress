@@ -5,5 +5,5 @@ p{
 *{background-color:
      rgb(119, 187, 219);}
 #title{
-    border: thick double white;
+    border-style: inset white;
 }
